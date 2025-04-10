@@ -3,7 +3,7 @@
 ---
 
 ```markdown
-# 💻 Distributed Systems Lab – Tiina Niklander (Helsinki Uni)
+# 💻 Distributed Systems Lab – (Helsinki Uni)
 
 This repository includes hands-on, terminal-based simulations of **key distributed algorithms and protocols** as taught by **Tiina Niklander** in the University of Helsinki’s Distributed Systems course. Based on *Distributed Systems: Principles and Paradigms* by **van Steen & Tanenbaum**, each example is built to reflect real-world distributed systems behavior across processes.
 
